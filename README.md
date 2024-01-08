@@ -1,2 +1,2 @@
 # Theory
-Specific topics such solving certain PDEs or SDEs etc.
+Specific topics such as solving certain PDEs or SDEs etc.
