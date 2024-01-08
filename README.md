@@ -1,2 +1,2 @@
 # Theory
-Mathematical, Statistical and Financial Theory
+Specific topics such solving certain PDEs or SDEs etc
