@@ -1,2 +1,2 @@
 # Theory
-Specific topics such as solving certain PDEs or SDEs etc.
+Mathematics and Statistical Theory needed for Derivative Pricing, Risk and Portfolio Management, and for Financial Engineering
